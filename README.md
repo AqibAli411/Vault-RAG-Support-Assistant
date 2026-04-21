@@ -1,6 +1,6 @@
 # Vault AI Terminal 🔒
 
-> **Visual Preview**: *(Upload your screenshot here to show recruiters the stunning Vault UI)*
+> **Visual Preview**:
 > ![Application Preview](./preview-image.png)
 
 Vault AI Terminal is a high-fidelity, highly secure Retrieval-Augmented Generation (RAG) assistant designed for enterprise compliance, auditing, and secure knowledge retrieval. 
