@@ -1,7 +1,5 @@
 # Vault AI Terminal 🔒
 
-![Vault AI Terminal](./logo.png)
-
 > **Visual Preview**: *(Upload your screenshot here to show recruiters the stunning Vault UI)*
 > ![Application Preview](./preview-image.png)
 
